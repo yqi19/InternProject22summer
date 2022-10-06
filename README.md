@@ -3,10 +3,10 @@ for detailed environment, please see `environment.yaml`, but the libraries are t
 
 you can also install environment by doing:
 ```python
-conda create -n pvt python=3.8 -y
-conda activate pvt
-pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 -f https://download.pytorch.org/whl/torch_stable.html
-pip install timm==0.3.2 tensorboardX six
+conda create -n pvt python=3.8 -y \
+conda activate pvt \
+pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 -f https://download.pytorch.org/whl/torch_stable.html \
+pip install timm==0.3.2 tensorboardX six \
 pip install wandb
 ```
 and clone the repo by:
