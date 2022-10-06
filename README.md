@@ -1,5 +1,6 @@
 ## set up environment 
-intial environment, please see `environment.yaml`, but the libariries are too many
+for detailed environment, please see `environment.yaml`, but the libraries are too many
+
 you can also install environment by doing:
 ```python
 conda create -n pvt python=3.8 -y
