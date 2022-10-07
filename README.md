@@ -1,4 +1,4 @@
-## set up environment 
+## Set up environment 
 for detailed environment, please see `environment.yaml`, but the libraries are too many
 
 you can also install environment by doing:
@@ -16,7 +16,7 @@ git clone https://github.com/yqi19/mycode.git
 ##### note: please remember to `pip install wandb` to successfully run the code
 ##### And this code supports `ImageNet-100` only : https://github.com/danielchyeh/ImageNet-100-Pytorch 
 
-## classification
+## Classification
 ```python
 cd classification
 ```
