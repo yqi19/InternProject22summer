@@ -14,7 +14,7 @@ and clone the repo by:
 git clone https://github.com/yqi19/mycode.git
 ```
 ##### note: please remember to `pip install wandb` to successfully run the code
-##### And this code supports ImageNet-100 only : https://github.com/danielchyeh/ImageNet-100-Pytorch 
+##### And this code supports `ImageNet-100` only : https://github.com/danielchyeh/ImageNet-100-Pytorch 
 
 ## classification
 ```python
